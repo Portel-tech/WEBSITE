@@ -919,7 +919,7 @@ ul.social-share.social-share-style-2 li a:hover i, ul.social-share.social-share-
   background: #702FFF;
 }
 
-ul.mainmenu, .side-nav .side-nav-inner .side-nav-content ul.main-navigation, .popup-mobile-manu .inner .menu-item ul.mainmenu-item, ul.social-share, ul.followers-list, .axil-blog-list .blog-top .author .info ul.blog-meta, .axil-breadcrumb-area.breadcrumb-style-2 ul.ax-breadcrumb, .axil-single-widget.category ul.category-list, .axil-single-widget.share ul.social-list, .axil-single-widget.small-post-wrapper .small-post .content ul.blog-meta, .axil-single-widget.tags ul.tags-list, .axil-blog-details-area .blog-top .author .info ul.blog-meta {
+ul.mainmenu, .side-nav .side-nav-inner .side-nav-content ul.main-navigation,  .menu-item ul.mainmenu-item, ul.social-share, ul.followers-list, .axil-blog-list .blog-top .author .info ul.blog-meta, .axil-breadcrumb-area.breadcrumb-style-2 ul.ax-breadcrumb, .axil-single-widget.category ul.category-list, .axil-single-widget.share ul.social-list, .axil-single-widget.small-post-wrapper .small-post .content ul.blog-meta, .axil-single-widget.tags ul.tags-list, .axil-blog-details-area .blog-top .author .info ul.blog-meta {
   padding: 0;
   margin: 0;
   list-style: none;
@@ -12142,7 +12142,7 @@ ul.mainmenu li.has-dropdown.active ul.axil-submenu.visible {
 }
 
 .popup-mobile-manu .inner {
-  background: #000000;
+  background: #eaf8ff;
   width: 400px;
   max-width: 80%;
   height: 100%;
@@ -12264,7 +12264,7 @@ ul.mainmenu li.has-dropdown.active ul.axil-submenu.visible {
   -webkit-transition: 0.4s;
   -o-transition: 0.4s;
   transition: 0.4s;
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 .popup-mobile-manu .inner .menu-item ul.mainmenu-item li:first-child {
