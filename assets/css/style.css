@@ -10653,7 +10653,7 @@ textarea:-ms-input-placeholder {
   background: -webkit-gradient(linear, left top, left bottom, from(#FEF7E2), to(#EEEEFD));
   background: -webkit-linear-gradient(top, #FEF7E2 0%, #EEEEFD 100%);
   background: -o-linear-gradient(top, #FEF7E2 0%, #EEEEFD 100%);
-  background: linear-gradient(180deg, #FEF7E2 0%, #EEEEFD 100%);
+  background: linear-gradient(180deg, #EAF8FF 0%, #F6F6FF 100%);
 }
 
 .theme-gradient-5 {
